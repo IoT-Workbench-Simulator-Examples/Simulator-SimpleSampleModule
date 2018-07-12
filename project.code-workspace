@@ -5,7 +5,7 @@
         }
     ],
     "settings": {
-        "IoTWorkbench.BoardId": "raspberrypi",
+        "IoTWorkbench.BoardId": "simulator",
         "IoTWorkbench.DevicePath": "Device"
     }
 }
